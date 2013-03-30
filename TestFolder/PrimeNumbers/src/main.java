@@ -46,7 +46,7 @@ public class main {
 			if(loop)
 			{
 				size++;
-				prime.add(primePrimeCount);
+				prime.add(primeCount);
 				System.out.println(primeCount);
 			}
 		}
